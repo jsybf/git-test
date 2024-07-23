@@ -1,7 +1,7 @@
 # merge.py
 def greet():
-    print("Hello from the park_jun_hyoung branch")
-    print("Hello from the main branch")
+    print("Hello from the yechan branch")
+
 def add(a, b):
     return a + b
 def subtract(a, b):
